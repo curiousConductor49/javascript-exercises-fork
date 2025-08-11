@@ -1,11 +1,4 @@
 const fibonacci = function(num) {
-    /* Function return the specified member of the sequence
-    Pass In: number to accesss member of sequence
-    Action:
-        CALCULATE the member of the sequence by starting with the first member (1) and deriving the members up until the specified number
-    Pass Out: member of sequence
-    */
-
     const position = parseInt(num);
     const fibonacciArr = [1, 1];
 
